@@ -1,14 +1,14 @@
 <?php
 //database hostname
-define('DB_HOST','{{db_hostname}}');
+define('DB_HOST','{{sql313.eb2a.com}}');
 //database user
-define('DB_USER','{{db_username}}');
+define('DB_USER','{{eb2a_21986931}}');
 //database user password
-define('DB_PASS','{{db_password}}');
+define('DB_PASS','{{adl44646ayman}}');
 //database name
-define('DB_NAME','{{db_name}}');
+define('DB_NAME','{{eb2a_21986931_studnat}}');
 //database table names prefix
-define('DB_PREFIX','{{db_prefix}}');
+define('DB_PREFIX','{{wp_}}');
 //Table Header Storage File
 define('TB_HEADER_FILENAME','headers.json');
 
